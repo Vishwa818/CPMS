@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Placement Management System
 
 ## Table of Contents
@@ -135,3 +136,6 @@ cd college-placement-management-system
    npm run dev
    ```
 
+=======
+# CPMS
+>>>>>>> 76c88116f66a2a00ad01e16cf97e8ccee2c90e51

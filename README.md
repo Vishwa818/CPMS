@@ -14,7 +14,7 @@
     - [Clone the Repository](#clone-the-repository)
     - [Backend Setup](#backend-setup)
     - [Frontend Setup](#frontend-setup)
-  - [Contributors](#contributors)
+  - [Contributors](#contributors) 
 
 ## Introduction
 The **College Placement Management System** is a web application designed to streamline and digitize the placement process in colleges and universities. Developed by pre final students of **IITISM Dhanbad**, the system features a multi-role platform catering to students, TPO (Training and Placement Officer), management, and super admin. It aims to minimize manual efforts, improve transparency, and provide real-time tracking of the placement cycle.
@@ -27,7 +27,7 @@ The **College Placement Management System** is a web application designed to str
 - **Cloudinary Integration**: Handles secure storage of profile pictures, resumes, and offer letters.
 
 ## Tech Stack
-- **Frontend**: Vite + React.js, Tailwind CSS, Bootstrap
+- **Frontend**: Vite + React.js, Tailwind CSS, Bootstrap.
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
